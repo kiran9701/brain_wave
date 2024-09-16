@@ -1,0 +1,4 @@
+1. first of all download a sample html template from browser and extract the files.
+2. Go to s3 and create a s3 bucket with ACL enable .
+3. After that upload the html file in s3 bucket and make it ACLS public.
+4. Go to properties edit static website hosting after that copy the link and paste it on browser the template will appear on screen.
